@@ -2,8 +2,8 @@
 title: 无限探索星球
 SEOTitle: 林深有烊
 header-img: img/post-bg-desk.jpg
-email: 1162466610@qq.com
-description: "Every failure is leading towards success."
+email: 271567394@qq.com
+description: "欢迎来到我的星球."
 keyword: "平面设计,UI设计"
 url: "http://wang-zhiyang.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,14 +11,14 @@ github_repo: "https://github.com/wang-zhiyang/wang-zhiyang.github.io" # you code
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "better late than never And be better than before"
+sidebar-about-description: "探索一切有趣事物"
 sidebar-avatar: /img/common/profile.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     wangzhiyang
+# weibo_username:     隔壁老李家的大胖
 #zhihu_username:     wangzhiyang
 github_username:    wang-zhiyang
 #jianshu_username:   e71990ada2fd
