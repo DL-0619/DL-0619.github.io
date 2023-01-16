@@ -1,10 +1,10 @@
 # Site settings
-title: WZY Blog
-SEOTitle: 亚热带小番茄
+title: 无限探索星球
+SEOTitle: 林深有烊
 header-img: img/post-bg-desk.jpg
 email: 1162466610@qq.com
 description: "Every failure is leading towards success."
-keyword: "BY, WZY Blog, 亚热带小番茄, wang-zhiyang"
+keyword: "平面设计,UI设计"
 url: "http://wang-zhiyang.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/wang-zhiyang/wang-zhiyang.github.io" # you code repository
